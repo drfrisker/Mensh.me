@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Joseph Mensh, I'm an ME in the mid atlantic region of the United States. This is my site mensh.me, you can contact me with address [Joseph@Mensh.ME](mailto:joseph@mensh.me) for inquiries. 
+### mensh.me
 ## Sup
-# Hello
+# Hello there 👋 My name is Joseph Mensh, I'm an ME in the mid atlantic region of the United States. This is my site mensh.me, you can contact me with address [Joseph@Mensh.ME](mailto:joseph@mensh.me) for inquiries. 
 
 <!--
 **drfrisker/drfrisker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
