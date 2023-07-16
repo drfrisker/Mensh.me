@@ -1,9 +1,9 @@
 ## Joey Moto
-# Hello there 👋 My name is Joseph Mensh, I'm an ME in the mid atlantic region of the United States. This is my site I'm stepping through into development, you can contact me with address [Joseph@Mensh.ME](mailto:joseph@mensh.me) for inquiries concerning custom mechanical design, consultations, advice, or to say hi!
+# Hello there 👋 My name is Joseph Mensh, I'm a ME in the mid atlantic region of the United States. This is my free github hosted website I'm practicing development with.
 
-- 🔭 I’m currently planning motorcycle trip routes, logistics, and supplies.
-- 🌱 This is my first attempted edit from using a code editor and github desktop, we'll see how it pans out!
-- 💬 check it out
+- 🔭 I’m currently finishing a piece of furniture and rebuilding a 2013 Kawasaki EX650
+- 🌱 This is my second edit from using a code editor with github desktop to push commits. Maybe it includes spellcheck in the future.
+- 📫 for inquiries concerning custom mechanical design, consultations, advice: [Joseph@Mensh.ME](mailto:joseph@mensh.me) 
 
 <!--
 **drfrisker/drfrisker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
