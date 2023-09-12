@@ -1,9 +1,9 @@
 ## Joey Moto
-# Hello there 👋 My name is Joseph Mensh, I'm a ME in the mid atlantic region of the United States. This is my free github hosted website I'm practicing development with.
+# Hello there 👋 My name is Joseph Mensh, I'm a ME in the mid atlantic region of the United States. This is my free github hosted website I'm trying out different webtools with, as well as sharing what I've been working on.
 
-- 🔭 I’m currently finishing a piece of furniture (hall tree to be exact) and rebuilding a 2013 Kawasaki EX650
-- 🌱 This is my third edit, now using VScode to edit and to push commits. Maybe it will include spellcheck in the future.
-- 📫 for inquiries concerning custom mechanical design, consultations, advice: [Joseph@Mensh.ME](mailto:joseph@mensh.me) 
+- 🔭 For this Fall '23, I’m planning a move to the Richmond, Virginia area to break ground on a homestead project I've had on the back burner for several years.
+- 🌱 This Summer, I finished both the hall tree (with a black walnut stain I made) and the [motorbike](https://imgur.com/fo4UIzM) rebuild.
+- 📫 for inquiries concerning custom mechanical design, consultations, advice, current resume: [Joseph@Mensh.ME](mailto:joseph@mensh.me) 
 
 <!--
 **
