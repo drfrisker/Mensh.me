@@ -1,8 +1,8 @@
 ## Joey Moto
 # Hello there 👋 My name is Joseph Mensh, I'm a ME in the mid atlantic region of the United States. This is my free github hosted website I'm trying out different webtools with, as well as sharing what I've been working on.
 
-- 🔭 For this Fall '23, I’m planning a move to the Richmond, Virginia area to break ground on a homestead project I've had on the back burner for several years.
-- 🌱 This Summer, I finished both the [hall tree](https://i.imgur.com/8edBXgC.jpg) (with a black walnut stain I made) and the [motorbike](https://imgur.com/fo4UIzM) rebuild.
+- 🔭 For this Spring and Summer 2024,
+- 🌱 This past winter, I painted the [vaporwave ninja](https://imgur.com/fo4UIzM) and revived a Honda Shadow 600.
 - 📫 for inquiries concerning custom mechanical design, consultations, advice, current resume: [Joseph@Mensh.ME](mailto:joseph@mensh.me) 
 
 <!--
